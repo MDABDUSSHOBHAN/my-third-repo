@@ -1,0 +1,17 @@
+p{
+    background-color: green;
+    color: red;
+    height: 50%;
+    width: 50%;
+    font-size: small;
+
+}
+ul li{
+    color: aqua;
+    background-color: rebeccapurple;
+}
+h1{
+    text-align: center;
+    background-image: url(q.jpg);
+   
+}
